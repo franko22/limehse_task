@@ -16,7 +16,7 @@ In a microservice architecture, it's very important to collect metrics, enable t
 and logs for application specifics to enhance developer productivity. We can solve most of applications issues with tracing and application logs.
 
 -Seucrity
-I will check IAM policies, WAF and IDS systems.
-IAM policies, to check granting access rights if it followed least privilegde principles,
+I will check IAM policies and WAF, Current architecture and IDS systems.
+IAM policies, to check granting access rights if it followed least priviledge principles,
 WAF and IDS systems, if application firewall are set with the right ACL's to prevent an SQL injection/ DDoS with intrusion detection setup
 to prevent any malacious attempt and protect instances.
