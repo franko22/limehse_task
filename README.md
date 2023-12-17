@@ -22,4 +22,4 @@ Requires: botocore, jmespath, s3transfer_
 
 ### To run from your remote machine
 #### After verifying installations of pyhon, awscli, AWS Credentials and Boto3 is complete with AWS config file, git clone repo and navigate to infra directory and enter this the terminal 
-#### _python search.py
+#### _python search.py_

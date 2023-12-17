@@ -1,0 +1,19 @@
+infrastructure as Code
+- What is it?
+IaC enables infrastructure/operation/devops teams to no longer manually configure servers, provisioning
+and modifying their configuration directly but using code instead.
+
+- Why is it?
+1) It enables scalability through the code to create or provisioning servers rapidly.
+2) Reduces errors through the use of immutable servers, meaning modifications are made as code
+3) It makes testing environments easier without affecting production environments for greenfield and bluefield approach.
+
+- Are they any alternatives?
+Yes they are, Ansible, Pelumi, Biceps and Clouformation is one of such alternatives
+
+- Observability
+In a microservice architecture, it's very important to collect metrics, enable tracing for debugging,
+and logs for application specifics to enhance developer productivity. We can solve most of applications issues with tracing and application logs.
+
+-Seucrity
+I will check IAM policies, WAF and IDS systems.
